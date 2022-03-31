@@ -80,7 +80,7 @@
   background: #fff url(https://hinforcom.com/wp-content/uploads/2018/02/instaladores-cableado-estruturado.jpg) center center/cover no-repeat;
 }
 .imgAd3{
-  background: #fff url(https://anathemavessel.github.io/examenU2/assets/images/gallery/Imagen1.PNG) center center/cover no-repeat;
+  background: #fff url(https://anathemavessel.github.io/examenU2/assets/images/gallery/03.PNG) center center/cover no-repeat;
 }
 .imgAd4{
   background: #fff url(https://cdn.appdesign.dev/wp-content/uploads/2018/02/c%C3%B3digo-en-laravel.jpg) center center/cover no-repeat;
@@ -103,7 +103,6 @@
 .typing{
   overflow: hidden;
   border-right: .15em solid #529c95; 
-  white-space: nowrap; 
   margin: 0 auto; /* Gives that scrolling effect as the typing happens */
   animation: 
     typing 3.5s steps(40, end),
